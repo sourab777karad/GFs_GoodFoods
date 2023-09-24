@@ -514,7 +514,6 @@ section .main_btn:hover {
 }
 .team .team_box .profile:hover .info {
   top: 50%;
-  text-decoration: none
 }
 
 .team .team_box .profile:hover .info .name {
